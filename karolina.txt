@@ -3,3 +3,4 @@ To jest mój plik
 Została dodana NOWA SUPER EXTRA KOMPATYBILNA linia na feature branchu no.2.
 1
 2
+3
