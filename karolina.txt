@@ -1,3 +1,3 @@
 To jest mój plik
 
-Została dodana linia na feature branchu no.2.
+Została dodana EXTRA KOMPATYBILNA linia na feature branchu no.2.
