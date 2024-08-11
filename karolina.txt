@@ -1,1 +1,3 @@
 To jest mój plik
+
+Została dodana linia na feature branchu no.2.
