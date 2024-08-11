@@ -1,0 +1,6 @@
+To jest podstawowa instrukcja do tego repozytorium.
+1
+2
+3
+4
+5
